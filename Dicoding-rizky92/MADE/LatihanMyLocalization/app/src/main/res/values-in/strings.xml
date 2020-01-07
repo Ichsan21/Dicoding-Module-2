@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Latihan MyLocalization</string>
+    <string name="hello">Hai dunia %1$s, kamu punya %2$d colekan dari %3$s</string>
+    <string name="morning">Pagi!</string>
+    <plurals name="song_num">
+        <item quantity="one">%d lagu ditemukan.</item>
+        <item quantity="other">%d lagu ditemukan.</item>
+    </plurals>
+    <string name="url">
+       Kunjungi website kami di <xliff:g id="application_homepage">https://dicoding.com</xliff:g>
+    </string>
+    <string name="settings">Ganti Bahasa</string>
+</resources>

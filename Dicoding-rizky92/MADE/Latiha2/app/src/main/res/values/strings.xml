@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Latiha2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ke_kategori">Ke Fragment Kategori</string>
+    <string name="cat_fragment">Fragment Kategori</string>
+    <string name="cat_lifestyle">Kategori Lifestyle</string>
+    <string name="cat_name">Nama Kategori</string>
+    <string name="cat_detail">Detail Kategori</string>
+    <string name="to_profile">Ke Fragment Profile</string>
+    <string name="show_dialog">Tampilkan Dialog</string>
+    <string name="question">Apakah anda sedang sibuk?</string>
+    <string name="ans_yes">Ya!</string>
+    <string name="ans_maybe">Mungkin...</string>
+    <string name="ans_no">Tidaaaaaakkkkkk!</string>
+    <string name="ans_rand">Xiaomi Mi Mix Alpha X2</string>
+    <string name="close">Tutup</string>
+    <string name="choose">Pilih</string>
+</resources>

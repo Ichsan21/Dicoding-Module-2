@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Latihan Broadcast</string>
+    <string name="check_sms_permission">Check SMS Permission</string>
+    <string name="download_file">Download a File</string>
+    <string name="coming_from">Coming From</string>
+    <string name="this_play">Ini nenek nak, sekarang lagi di kantor polisi. Tolong dong kirimin pulsa 150k. Penting soalnya. Trims.</string>
+    <string name="close">Tutup</string>
+    <string name="incoming_message">Incoming Message</string>
+</resources>
