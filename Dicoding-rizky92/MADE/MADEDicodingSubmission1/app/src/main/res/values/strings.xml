@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">MADE Dicoding Submission 1</string>
-    <string name="title">Title</string>
-    <string name="desc">description</string>
-    <string name="date">1970-12-31</string>
-    <string name="rating">8.5</string>
-    <string name="length">3h 10m</string>
-    <string name="trailer">Watch Trailer</string>
-</resources>

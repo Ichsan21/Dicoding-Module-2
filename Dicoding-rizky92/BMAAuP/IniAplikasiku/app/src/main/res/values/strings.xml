@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">IniAplikasiku</string>
-    <string name="length">PANJANG</string>
-    <string name="width">LEBAR</string>
-    <string name="height">TINGGI</string>
-    <string name="calculate">HITUNG</string>
-    <string name="result">HASIL</string>
-</resources>

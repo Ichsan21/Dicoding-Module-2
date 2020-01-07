@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Latihan WorkManager</string>
-    <string name="enter_city_name">Enter city name</string>
-    <string name="run_one_time">Run One Time Task</string>
-    <string name="run_periodic">Run Periodic Task</string>
-    <string name="cancel_periodic">Cancel Periodic Task</string>
-    <string name="status">Status:</string>
-</resources>
